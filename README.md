@@ -1,6 +1,6 @@
 # airdrop_venom
 ## Venom
-1. [General Info](#general-info)
+1. [Que es un airdrop](#que-es-un-airdrop)
 2. [Technologies](#technologies)
 3. [Installation](#installation)
 4. [Collaboration](#collaboration)
