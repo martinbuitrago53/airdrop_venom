@@ -1,4 +1,4 @@
-# airdrop_venom?.
+# airdrop_venom?...
 ## Venom?.
 1. [Que es un airdrop](#que-es-un-airdrop)
 2. [Technologies](#technologies)
